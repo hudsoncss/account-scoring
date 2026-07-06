@@ -6,6 +6,247 @@ from enrichment import run_enrichment_batch
 from scoring import score_all, DEFAULT_WEIGHTS
 
 
+# ─── Custom theme CSS (mirrors hudsonrevops.com design system) ─────────────────
+
+_CUSTOM_CSS = """
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@700;800&family=Lexend+Deca:wght@300;400;600&display=swap');
+
+/* ── Base typography ── */
+html, body, [class*="css"] {
+    font-family: 'Lexend Deca', sans-serif;
+    color: #32444f;
+}
+
+[data-testid="stAppViewContainer"] {
+    background-color: #f7f7f4;
+}
+
+[data-testid="stHeader"] {
+    background-color: rgba(0,0,0,0);
+}
+
+h1, h2, h3, h4,
+[data-testid="stMarkdownContainer"] h1,
+[data-testid="stMarkdownContainer"] h2,
+[data-testid="stMarkdownContainer"] h3,
+[data-testid="stMarkdownContainer"] h4 {
+    font-family: 'Archivo', sans-serif;
+    color: #0e1f2b;
+}
+
+h1, h2,
+[data-testid="stMarkdownContainer"] h1,
+[data-testid="stMarkdownContainer"] h2 {
+    font-weight: 800;
+    letter-spacing: -0.02em;
+}
+
+a, [data-testid="stMarkdownContainer"] a {
+    color: #0d7377;
+}
+
+/* ── Eyebrow label ── */
+.hrops-eyebrow {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    color: #0d7377;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-bottom: 0.25rem;
+    display: block;
+}
+
+/* ── Sidebar: dark section with dot-grid texture ── */
+[data-testid="stSidebar"] {
+    background-color: #14222e;
+    background-image: radial-gradient(rgba(46,230,207,0.1) 1px, transparent 1px);
+    background-size: 24px 24px;
+}
+
+[data-testid="stSidebar"] * {
+    color: #b8c5cf;
+}
+
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] h4,
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h1,
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h2,
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h3,
+[data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h4 {
+    font-family: 'Archivo', sans-serif;
+    color: #ffffff;
+}
+
+[data-testid="stSidebar"] a {
+    color: #2ee6cf;
+}
+
+[data-testid="stSidebar"] [data-testid="stCaptionContainer"],
+[data-testid="stSidebar"] small {
+    color: #8fa2ac;
+}
+
+[data-testid="stSidebar"] hr {
+    border-color: #2a3d4c;
+}
+
+/* Widget labels (slider, selectbox, multiselect, text_input, file_uploader) */
+[data-testid="stSidebar"] label,
+[data-testid="stSidebar"] [data-testid="stWidgetLabel"] p {
+    color: #b8c5cf !important;
+    font-weight: 600;
+}
+
+/* Text inputs / password inputs */
+[data-testid="stSidebar"] input[type="text"],
+[data-testid="stSidebar"] input[type="password"] {
+    background-color: #1b2c3a;
+    border: 1px solid #2a3d4c;
+    color: #e8eef2;
+}
+
+[data-testid="stSidebar"] [data-baseweb="input"] {
+    background-color: #1b2c3a;
+    border-radius: 6px;
+}
+
+[data-testid="stSidebar"] [data-baseweb="base-input"] {
+    background-color: #1b2c3a;
+}
+
+/* Selectbox / multiselect (BaseWeb) */
+[data-testid="stSidebar"] [data-baseweb="select"] > div {
+    background-color: #1b2c3a;
+    border-color: #2a3d4c;
+    color: #e8eef2;
+}
+
+[data-testid="stSidebar"] [data-baseweb="tag"] {
+    background-color: #0d7377;
+}
+
+/* Sliders — spark cyan accent */
+[data-testid="stSidebar"] [data-baseweb="slider"] div[role="slider"] {
+    background-color: #2ee6cf;
+    border-color: #2ee6cf;
+}
+
+[data-testid="stSidebar"] [data-testid="stSlider"] [data-baseweb="slider"] > div > div {
+    background: #2ee6cf;
+}
+
+/* Expander */
+[data-testid="stSidebar"] [data-testid="stExpander"] {
+    background-color: #1b2c3a;
+    border: 1px solid #2a3d4c;
+    border-radius: 8px;
+}
+
+[data-testid="stSidebar"] [data-testid="stExpander"] summary {
+    color: #e8eef2;
+}
+
+/* File uploader dropzone */
+[data-testid="stSidebar"] [data-testid="stFileUploaderDropzone"] {
+    background-color: #1b2c3a;
+    border: 1px dashed #2a3d4c;
+}
+
+[data-testid="stSidebar"] [data-testid="stFileUploaderDropzone"] * {
+    color: #b8c5cf !important;
+}
+
+[data-testid="stSidebar"] [data-testid="stFileUploaderDropzone"] button {
+    background-color: #0d7377;
+    color: #ffffff;
+    border: 1px solid rgba(46,230,207,0.6);
+}
+
+/* Alerts inside sidebar (success/error/info) keep readable text */
+[data-testid="stSidebar"] [data-testid="stAlertContentSuccess"],
+[data-testid="stSidebar"] [data-testid="stAlertContentInfo"],
+[data-testid="stSidebar"] [data-testid="stAlertContentError"],
+[data-testid="stSidebar"] [data-testid="stAlertContentWarning"] {
+    color: #e8eef2;
+}
+
+/* ── Buttons: signature teal glow ── */
+.stButton > button,
+[data-testid="stDownloadButton"] > button,
+[data-testid="baseButton-primary"] {
+    background-color: #0d7377;
+    color: #ffffff;
+    border: 1px solid rgba(46,230,207,0.6);
+    border-radius: 8px;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+    box-shadow: 0 0 14px -6px rgba(46,230,207,0.7);
+    transition: all 0.15s ease-in-out;
+}
+
+.stButton > button:hover,
+[data-testid="stDownloadButton"] > button:hover {
+    background-color: #0a8f86;
+    color: #ffffff;
+    box-shadow: 0 0 22px -6px rgba(46,230,207,0.9);
+    border-color: rgba(46,230,207,0.9);
+}
+
+/* ── Main-area cards: dataframe / expander / metric containers ── */
+[data-testid="stDataFrame"],
+[data-testid="stExpander"] {
+    background-color: #ffffff;
+    border: 1px solid #dde2da;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px -4px rgba(14,31,43,0.08);
+}
+
+[data-testid="stMetric"] {
+    background-color: #ffffff;
+    border: 1px solid #dde2da;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 2px 8px -4px rgba(14,31,43,0.08);
+}
+
+[data-testid="stMetricValue"] {
+    color: #0e1f2b;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 800;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #5d6f78;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+}
+
+/* ── Tabs ── */
+[data-testid="stTabs"] button[data-baseweb="tab"] {
+    color: #5d6f78;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 700;
+}
+
+[data-testid="stTabs"] button[aria-selected="true"] {
+    color: #0d7377;
+    border-bottom-color: #0d7377;
+}
+
+/* ── Dividers ── */
+[data-testid="stMainBlockContainer"] hr {
+    border-color: #dde2da;
+}
+</style>
+"""
+
+
 # ─── Helpers ───────────────────────────────────────────────────────────────────
 
 def _chain_label(row) -> str:
@@ -60,6 +301,8 @@ st.set_page_config(
     page_icon="⚓",
     layout="wide",
 )
+
+st.markdown(_CUSTOM_CSS, unsafe_allow_html=True)
 
 # ─── Sidebar ───────────────────────────────────────────────────────────────────
 
@@ -179,6 +422,7 @@ with st.sidebar:
 # ─── Main content ──────────────────────────────────────────────────────────────
 
 _dataset_label = uploaded.name if uploaded is not None else "(default dataset)"
+st.markdown('<span class="hrops-eyebrow">Account Scoring &amp; Prioritization</span>', unsafe_allow_html=True)
 st.title("Account Prioritizer")
 st.markdown(
     f"Enriches prospects from *{_dataset_label}* then ranks by fit to a configurable "
