@@ -1,0 +1,1868 @@
+{
+  "33316": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Port Everglades / Fort Lauderdale"
+    ],
+    "distance_miles": 1.0,
+    "army_corps_rank": 18
+  },
+  "33315": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Port Everglades / Fort Lauderdale"
+    ],
+    "distance_miles": 1.6,
+    "army_corps_rank": 18
+  },
+  "34689": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 23.0,
+    "army_corps_rank": 11
+  },
+  "33311": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Port Everglades / Fort Lauderdale"
+    ],
+    "distance_miles": 4.5,
+    "army_corps_rank": 18
+  },
+  "33880": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 42.1,
+    "army_corps_rank": 11
+  },
+  "33186": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Miami"
+    ],
+    "distance_miles": 15.3,
+    "army_corps_rank": 23
+  },
+  "32210": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Jacksonville"
+    ],
+    "distance_miles": 6.7,
+    "army_corps_rank": 29
+  },
+  "33759": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 15.7,
+    "army_corps_rank": 11
+  },
+  "33138": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Miami"
+    ],
+    "distance_miles": 5.7,
+    "army_corps_rank": 23
+  },
+  "33037": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Miami"
+    ],
+    "distance_miles": 49.9,
+    "army_corps_rank": 23
+  },
+  "77586": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Texas City"
+    ],
+    "distance_miles": 15.7,
+    "army_corps_rank": 9
+  },
+  "75067": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Houston",
+      "Beaumont"
+    ],
+    "distance_miles": 249.0,
+    "army_corps_rank": 2
+  },
+  "65065": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Baton Rouge",
+      "Lake Charles"
+    ],
+    "distance_miles": 538.5,
+    "army_corps_rank": 10
+  },
+  "76053": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Houston",
+      "Beaumont"
+    ],
+    "distance_miles": 241.4,
+    "army_corps_rank": 2
+  },
+  "77055": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Houston"
+    ],
+    "distance_miles": 14.3,
+    "army_corps_rank": 2
+  },
+  "77008": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Houston"
+    ],
+    "distance_miles": 9.8,
+    "army_corps_rank": 2
+  },
+  "77015": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Houston"
+    ],
+    "distance_miles": 6.4,
+    "army_corps_rank": 2
+  },
+  "77356": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Houston"
+    ],
+    "distance_miles": 55.7,
+    "army_corps_rank": 2
+  },
+  "76548": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Houston"
+    ],
+    "distance_miles": 165.9,
+    "army_corps_rank": 2
+  },
+  "92110": {
+    "score_fraction": 1.0,
+    "ports": [
+      "San Diego"
+    ],
+    "distance_miles": 4.2,
+    "army_corps_rank": 41
+  },
+  "95501": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Eureka CA"
+    ],
+    "distance_miles": 0.5,
+    "army_corps_rank": 40
+  },
+  "90723": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Long Beach"
+    ],
+    "distance_miles": 10.7,
+    "army_corps_rank": 6
+  },
+  "94901": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Oakland"
+    ],
+    "distance_miles": 17.6,
+    "army_corps_rank": 42
+  },
+  "10464": {
+    "score_fraction": 0.83,
+    "ports": [
+      "New York / New Jersey"
+    ],
+    "distance_miles": 18.5,
+    "army_corps_rank": 3
+  },
+  "11782": {
+    "score_fraction": 0.58,
+    "ports": [
+      "New Haven CT"
+    ],
+    "distance_miles": 39.2,
+    "army_corps_rank": 36
+  },
+  "10801": {
+    "score_fraction": 0.83,
+    "ports": [
+      "New York / New Jersey"
+    ],
+    "distance_miles": 22.1,
+    "army_corps_rank": 3
+  },
+  "11725": {
+    "score_fraction": 0.58,
+    "ports": [
+      "New Haven CT"
+    ],
+    "distance_miles": 36.7,
+    "army_corps_rank": 36
+  },
+  "12304": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Albany NY"
+    ],
+    "distance_miles": 12.3,
+    "army_corps_rank": 37
+  },
+  "12845": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Albany NY"
+    ],
+    "distance_miles": 53.0,
+    "army_corps_rank": 37
+  },
+  "14527": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Albany NY"
+    ],
+    "distance_miles": 168.0,
+    "army_corps_rank": 37
+  },
+  "02127": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 1.9,
+    "army_corps_rank": 25
+  },
+  "02331": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Boston",
+      "Providence RI"
+    ],
+    "distance_miles": 32.3,
+    "army_corps_rank": 25
+  },
+  "02653": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Boston",
+      "Providence RI"
+    ],
+    "distance_miles": 67.9,
+    "army_corps_rank": 25
+  },
+  "06074": {
+    "score_fraction": 0.58,
+    "ports": [
+      "New Haven CT"
+    ],
+    "distance_miles": 41.4,
+    "army_corps_rank": 36
+  },
+  "06498": {
+    "score_fraction": 0.83,
+    "ports": [
+      "New Haven CT"
+    ],
+    "distance_miles": 24.1,
+    "army_corps_rank": 36
+  },
+  "01944": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 20.9,
+    "army_corps_rank": 25
+  },
+  "02360": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Boston",
+      "Providence RI"
+    ],
+    "distance_miles": 37.4,
+    "army_corps_rank": 25
+  },
+  "02043": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 12.4,
+    "army_corps_rank": 25
+  },
+  "01570": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Providence RI"
+    ],
+    "distance_miles": 27.7,
+    "army_corps_rank": 35
+  },
+  "04841": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 155.4,
+    "army_corps_rank": 25
+  },
+  "04104": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 98.5,
+    "army_corps_rank": 25
+  },
+  "04351": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 150.3,
+    "army_corps_rank": 25
+  },
+  "03911": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 57.5,
+    "army_corps_rank": 25
+  },
+  "05446": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Albany NY"
+    ],
+    "distance_miles": 133.2,
+    "army_corps_rank": 37
+  },
+  "05495": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Albany NY"
+    ],
+    "distance_miles": 127.7,
+    "army_corps_rank": 37
+  },
+  "04240": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 127.7,
+    "army_corps_rank": 25
+  },
+  "27203": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 146.5,
+    "army_corps_rank": 31
+  },
+  "27330": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 109.6,
+    "army_corps_rank": 31
+  },
+  "27405": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 165.8,
+    "army_corps_rank": 31
+  },
+  "28560": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Morehead City NC"
+    ],
+    "distance_miles": 31.2,
+    "army_corps_rank": 32
+  },
+  "28405": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 5.0,
+    "army_corps_rank": 31
+  },
+  "28001": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 149.4,
+    "army_corps_rank": 31
+  },
+  "27703": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Wilmington NC",
+      "Morehead City NC"
+    ],
+    "distance_miles": 130.3,
+    "army_corps_rank": 31
+  },
+  "28557": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Morehead City NC"
+    ],
+    "distance_miles": 1.4,
+    "army_corps_rank": 32
+  },
+  "27217": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 154.4,
+    "army_corps_rank": 31
+  },
+  "28401": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 1.0,
+    "army_corps_rank": 31
+  },
+  "29576": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Charleston SC",
+      "Wilmington NC"
+    ],
+    "distance_miles": 73.6,
+    "army_corps_rank": 22
+  },
+  "29036": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Charleston SC"
+    ],
+    "distance_miles": 123.5,
+    "army_corps_rank": 22
+  },
+  "29063": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Charleston SC"
+    ],
+    "distance_miles": 117.4,
+    "army_corps_rank": 22
+  },
+  "28516": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Morehead City NC"
+    ],
+    "distance_miles": 6.6,
+    "army_corps_rank": 32
+  },
+  "28461": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 19.6,
+    "army_corps_rank": 31
+  },
+  "35446": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile"
+    ],
+    "distance_miles": 175.7,
+    "army_corps_rank": 13
+  },
+  "35203": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 208.0,
+    "army_corps_rank": 13
+  },
+  "35501": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 221.0,
+    "army_corps_rank": 13
+  },
+  "33760": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 16.3,
+    "army_corps_rank": 11
+  },
+  "70124": {
+    "score_fraction": 1.0,
+    "ports": [
+      "South Louisiana / New Orleans"
+    ],
+    "distance_miles": 4.6,
+    "army_corps_rank": 1
+  },
+  "60565": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 263.8,
+    "army_corps_rank": 27
+  },
+  "60020": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 261.1,
+    "army_corps_rank": 27
+  },
+  "60085": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 245.9,
+    "army_corps_rank": 27
+  },
+  "46062": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 221.3,
+    "army_corps_rank": 27
+  },
+  "47872": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 279.3,
+    "army_corps_rank": 27
+  },
+  "96734": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Honolulu"
+    ],
+    "distance_miles": 10.0,
+    "army_corps_rank": 43
+  },
+  "96744": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Honolulu"
+    ],
+    "distance_miles": 8.4,
+    "army_corps_rank": 43
+  },
+  "96819": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Honolulu"
+    ],
+    "distance_miles": 2.9,
+    "army_corps_rank": 43
+  },
+  "96793": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Honolulu"
+    ],
+    "distance_miles": 92.0,
+    "army_corps_rank": 43
+  },
+  "48040": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 49.6,
+    "army_corps_rank": 27
+  },
+  "19046": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 10.7,
+    "army_corps_rank": 24
+  },
+  "56303": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 130.8,
+    "army_corps_rank": 26
+  },
+  "56304": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 128.9,
+    "army_corps_rank": 26
+  },
+  "55033": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 147.5,
+    "army_corps_rank": 26
+  },
+  "56468": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 106.1,
+    "army_corps_rank": 26
+  },
+  "56352": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 151.4,
+    "army_corps_rank": 26
+  },
+  "55420": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 145.8,
+    "army_corps_rank": 26
+  },
+  "50428": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 259.2,
+    "army_corps_rank": 26
+  },
+  "80525": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 776.5,
+    "army_corps_rank": 26
+  },
+  "84020": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Long Beach",
+      "Oakland"
+    ],
+    "distance_miles": 582.5,
+    "army_corps_rank": 6
+  },
+  "80221": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 804.9,
+    "army_corps_rank": 26
+  },
+  "83402": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 540.9,
+    "army_corps_rank": 19
+  },
+  "83687": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 329.9,
+    "army_corps_rank": 19
+  },
+  "83704": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 339.6,
+    "army_corps_rank": 19
+  },
+  "84737": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Long Beach",
+      "San Diego"
+    ],
+    "distance_miles": 360.0,
+    "army_corps_rank": 6
+  },
+  "84070": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Long Beach",
+      "Oakland"
+    ],
+    "distance_miles": 586.5,
+    "army_corps_rank": 6
+  },
+  "97701": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 119.5,
+    "army_corps_rank": 19
+  },
+  "97322": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 64.6,
+    "army_corps_rank": 19
+  },
+  "97045": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 13.5,
+    "army_corps_rank": 19
+  },
+  "97223": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 7.6,
+    "army_corps_rank": 19
+  },
+  "97220": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Portland OR"
+    ],
+    "distance_miles": 5.7,
+    "army_corps_rank": 19
+  },
+  "98632": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Astoria OR"
+    ],
+    "distance_miles": 41.6,
+    "army_corps_rank": 39
+  },
+  "97504": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Eureka CA"
+    ],
+    "distance_miles": 126.2,
+    "army_corps_rank": 40
+  },
+  "19136": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 10.0,
+    "army_corps_rank": 24
+  },
+  "18951": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 35.2,
+    "army_corps_rank": 24
+  },
+  "16001": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Pittsburgh"
+    ],
+    "distance_miles": 31.0,
+    "army_corps_rank": 16
+  },
+  "16509": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Cleveland"
+    ],
+    "distance_miles": 92.6,
+    "army_corps_rank": 20
+  },
+  "19355": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 20.2,
+    "army_corps_rank": 24
+  },
+  "08066": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 8.7,
+    "army_corps_rank": 24
+  },
+  "08721": {
+    "score_fraction": 0.58,
+    "ports": [
+      "New York / New Jersey",
+      "Philadelphia"
+    ],
+    "distance_miles": 52.2,
+    "army_corps_rank": 3
+  },
+  "08753": {
+    "score_fraction": 0.58,
+    "ports": [
+      "New York / New Jersey",
+      "Philadelphia"
+    ],
+    "distance_miles": 47.6,
+    "army_corps_rank": 3
+  },
+  "08094": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 22.3,
+    "army_corps_rank": 24
+  },
+  "08107": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Philadelphia"
+    ],
+    "distance_miles": 5.4,
+    "army_corps_rank": 24
+  },
+  "07849": {
+    "score_fraction": 0.58,
+    "ports": [
+      "New York / New Jersey"
+    ],
+    "distance_miles": 36.1,
+    "army_corps_rank": 3
+  },
+  "22406": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Baltimore"
+    ],
+    "distance_miles": 80.2,
+    "army_corps_rank": 12
+  },
+  "23220": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 80.0,
+    "army_corps_rank": 15
+  },
+  "23451": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 16.5,
+    "army_corps_rank": 15
+  },
+  "23005": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 89.3,
+    "army_corps_rank": 15
+  },
+  "23314": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 15.3,
+    "army_corps_rank": 15
+  },
+  "22539": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 69.6,
+    "army_corps_rank": 15
+  },
+  "20751": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Baltimore"
+    ],
+    "distance_miles": 33.7,
+    "army_corps_rank": 12
+  },
+  "42044": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile"
+    ],
+    "distance_miles": 433.1,
+    "army_corps_rank": 13
+  },
+  "40206": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Cleveland",
+      "Detroit"
+    ],
+    "distance_miles": 309.3,
+    "army_corps_rank": 20
+  },
+  "42164": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Cleveland",
+      "Detroit"
+    ],
+    "distance_miles": 406.6,
+    "army_corps_rank": 20
+  },
+  "40223": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Cleveland",
+      "Detroit"
+    ],
+    "distance_miles": 303.3,
+    "army_corps_rank": 20
+  },
+  "74331": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Lake Charles"
+    ],
+    "distance_miles": 453.9,
+    "army_corps_rank": 17
+  },
+  "73106": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Houston",
+      "Beaumont"
+    ],
+    "distance_miles": 418.9,
+    "army_corps_rank": 2
+  },
+  "72437": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Baton Rouge",
+      "Mobile"
+    ],
+    "distance_miles": 374.0,
+    "army_corps_rank": 10
+  },
+  "72758": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Lake Charles"
+    ],
+    "distance_miles": 424.7,
+    "army_corps_rank": 17
+  },
+  "92054": {
+    "score_fraction": 0.58,
+    "ports": [
+      "San Diego"
+    ],
+    "distance_miles": 36.0,
+    "army_corps_rank": 41
+  },
+  "35125": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 223.7,
+    "army_corps_rank": 13
+  },
+  "33405": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Port Everglades / Fort Lauderdale"
+    ],
+    "distance_miles": 40.3,
+    "army_corps_rank": 18
+  },
+  "98103": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Seattle / Puget Sound",
+      "Everett WA"
+    ],
+    "distance_miles": 5.1,
+    "army_corps_rank": 14
+  },
+  "45246": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Cleveland",
+      "Detroit"
+    ],
+    "distance_miles": 211.9,
+    "army_corps_rank": 20
+  },
+  "77025": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Houston"
+    ],
+    "distance_miles": 10.2,
+    "army_corps_rank": 2
+  },
+  "02150": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 2.7,
+    "army_corps_rank": 25
+  },
+  "33020": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Port Everglades / Fort Lauderdale",
+      "Miami"
+    ],
+    "distance_miles": 5.3,
+    "army_corps_rank": 18
+  },
+  "10012": {
+    "score_fraction": 1.0,
+    "ports": [
+      "New York / New Jersey"
+    ],
+    "distance_miles": 5.0,
+    "army_corps_rank": 3
+  },
+  "98201": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Everett WA"
+    ],
+    "distance_miles": 0.7,
+    "army_corps_rank": 38
+  },
+  "02021": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Boston",
+      "Providence RI"
+    ],
+    "distance_miles": 14.2,
+    "army_corps_rank": 25
+  },
+  "89118": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Long Beach"
+    ],
+    "distance_miles": 234.3,
+    "army_corps_rank": 6
+  },
+  "34761": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 71.8,
+    "army_corps_rank": 11
+  },
+  "97103": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Astoria OR"
+    ],
+    "distance_miles": 2.8,
+    "army_corps_rank": 39
+  },
+  "90065": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Long Beach"
+    ],
+    "distance_miles": 24.7,
+    "army_corps_rank": 6
+  },
+  "32084": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Jacksonville"
+    ],
+    "distance_miles": 33.5,
+    "army_corps_rank": 29
+  },
+  "38501": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah",
+      "Charleston SC"
+    ],
+    "distance_miles": 382.3,
+    "army_corps_rank": 21
+  },
+  "37055": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 373.3,
+    "army_corps_rank": 13
+  },
+  "34949": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Port Everglades / Fort Lauderdale"
+    ],
+    "distance_miles": 90.2,
+    "army_corps_rank": 18
+  },
+  "70552": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Baton Rouge"
+    ],
+    "distance_miles": 38.0,
+    "army_corps_rank": 10
+  },
+  "21536": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Pittsburgh"
+    ],
+    "distance_miles": 71.3,
+    "army_corps_rank": 16
+  },
+  "06460": {
+    "score_fraction": 1.0,
+    "ports": [
+      "New Haven CT"
+    ],
+    "distance_miles": 9.0,
+    "army_corps_rank": 36
+  },
+  "16415": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Cleveland"
+    ],
+    "distance_miles": 83.6,
+    "army_corps_rank": 20
+  },
+  "57301": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 357.9,
+    "army_corps_rank": 26
+  },
+  "92056": {
+    "score_fraction": 0.58,
+    "ports": [
+      "San Diego"
+    ],
+    "distance_miles": 34.3,
+    "army_corps_rank": 41
+  },
+  "21401": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Baltimore"
+    ],
+    "distance_miles": 19.4,
+    "army_corps_rank": 12
+  },
+  "44102": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Cleveland"
+    ],
+    "distance_miles": 3.2,
+    "army_corps_rank": 20
+  },
+  "44134": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Cleveland"
+    ],
+    "distance_miles": 8.0,
+    "army_corps_rank": 20
+  },
+  "45226": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Cleveland",
+      "Detroit"
+    ],
+    "distance_miles": 219.0,
+    "army_corps_rank": 20
+  },
+  "49685": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 213.3,
+    "army_corps_rank": 27
+  },
+  "53072": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 270.1,
+    "army_corps_rank": 27
+  },
+  "53058": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 277.3,
+    "army_corps_rank": 27
+  },
+  "54173": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 245.5,
+    "army_corps_rank": 26
+  },
+  "53125": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 281.7,
+    "army_corps_rank": 27
+  },
+  "30534": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah"
+    ],
+    "distance_miles": 240.9,
+    "army_corps_rank": 21
+  },
+  "30566": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah"
+    ],
+    "distance_miles": 219.8,
+    "army_corps_rank": 21
+  },
+  "30032": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah"
+    ],
+    "distance_miles": 216.4,
+    "army_corps_rank": 21
+  },
+  "31709": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah",
+      "Jacksonville"
+    ],
+    "distance_miles": 182.4,
+    "army_corps_rank": 21
+  },
+  "30458": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Savannah"
+    ],
+    "distance_miles": 46.6,
+    "army_corps_rank": 21
+  },
+  "30518": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah"
+    ],
+    "distance_miles": 218.7,
+    "army_corps_rank": 21
+  },
+  "31520": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Jacksonville"
+    ],
+    "distance_miles": 59.6,
+    "army_corps_rank": 29
+  },
+  "31525": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Savannah",
+      "Jacksonville"
+    ],
+    "distance_miles": 60.8,
+    "army_corps_rank": 21
+  },
+  "37076": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 388.1,
+    "army_corps_rank": 13
+  },
+  "37922": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Savannah",
+      "Charleston SC"
+    ],
+    "distance_miles": 313.1,
+    "army_corps_rank": 21
+  },
+  "37064": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 367.8,
+    "army_corps_rank": 13
+  },
+  "86403": {
+    "score_fraction": 0.0,
+    "ports": [
+      "San Diego"
+    ],
+    "distance_miles": 203.3,
+    "army_corps_rank": 41
+  },
+  "89121": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Long Beach"
+    ],
+    "distance_miles": 241.5,
+    "army_corps_rank": 6
+  },
+  "89015": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Long Beach",
+      "San Diego"
+    ],
+    "distance_miles": 242.5,
+    "army_corps_rank": 6
+  },
+  "02878": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Providence RI"
+    ],
+    "distance_miles": 17.5,
+    "army_corps_rank": 35
+  },
+  "02814": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Providence RI"
+    ],
+    "distance_miles": 15.4,
+    "army_corps_rank": 35
+  },
+  "03246": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Boston"
+    ],
+    "distance_miles": 86.5,
+    "army_corps_rank": 25
+  },
+  "63026": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 471.2,
+    "army_corps_rank": 27
+  },
+  "63366": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 470.5,
+    "army_corps_rank": 27
+  },
+  "64089": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 525.3,
+    "army_corps_rank": 26
+  },
+  "64015": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 548.0,
+    "army_corps_rank": 26
+  },
+  "68127": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 432.3,
+    "army_corps_rank": 26
+  },
+  "60613": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 237.4,
+    "army_corps_rank": 27
+  },
+  "60419": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 238.6,
+    "army_corps_rank": 27
+  },
+  "60827": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 239.8,
+    "army_corps_rank": 27
+  },
+  "39501": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Gulfport MS"
+    ],
+    "distance_miles": 1.0,
+    "army_corps_rank": 34
+  },
+  "39530": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Gulfport MS"
+    ],
+    "distance_miles": 11.7,
+    "army_corps_rank": 34
+  },
+  "36530": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Pensacola"
+    ],
+    "distance_miles": 22.1,
+    "army_corps_rank": 33
+  },
+  "35976": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Mobile",
+      "Pensacola"
+    ],
+    "distance_miles": 272.2,
+    "army_corps_rank": 13
+  },
+  "98102": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Seattle / Puget Sound"
+    ],
+    "distance_miles": 2.1,
+    "army_corps_rank": 14
+  },
+  "98199": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Seattle / Puget Sound",
+      "Everett WA"
+    ],
+    "distance_miles": 4.6,
+    "army_corps_rank": 14
+  },
+  "98273": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Everett WA"
+    ],
+    "distance_miles": 31.5,
+    "army_corps_rank": 38
+  },
+  "98366": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Seattle / Puget Sound",
+      "Tacoma"
+    ],
+    "distance_miles": 12.6,
+    "army_corps_rank": 14
+  },
+  "21635": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Baltimore",
+      "Philadelphia"
+    ],
+    "distance_miles": 38.2,
+    "army_corps_rank": 12
+  },
+  "19939": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Baltimore",
+      "Philadelphia"
+    ],
+    "distance_miles": 88.4,
+    "army_corps_rank": 12
+  },
+  "19963": {
+    "score_fraction": 0.33,
+    "ports": [
+      "Baltimore",
+      "Philadelphia"
+    ],
+    "distance_miles": 66.2,
+    "army_corps_rank": 12
+  },
+  "23502": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 4.7,
+    "army_corps_rank": 15
+  },
+  "84115": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Oakland"
+    ],
+    "distance_miles": 590.1,
+    "army_corps_rank": 42
+  },
+  "84104": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Oakland"
+    ],
+    "distance_miles": 589.2,
+    "army_corps_rank": 42
+  },
+  "29414": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Charleston SC"
+    ],
+    "distance_miles": 7.9,
+    "army_corps_rank": 22
+  },
+  "29169": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Charleston SC"
+    ],
+    "distance_miles": 107.3,
+    "army_corps_rank": 22
+  },
+  "72301": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Baton Rouge",
+      "Mobile"
+    ],
+    "distance_miles": 330.6,
+    "army_corps_rank": 10
+  },
+  "78735": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Houston",
+      "Corpus Christi"
+    ],
+    "distance_miles": 158.0,
+    "army_corps_rank": 2
+  },
+  "78233": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Corpus Christi"
+    ],
+    "distance_miles": 134.7,
+    "army_corps_rank": 7
+  },
+  "77554": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Texas City"
+    ],
+    "distance_miles": 12.1,
+    "army_corps_rank": 9
+  },
+  "33634": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 8.4,
+    "army_corps_rank": 11
+  },
+  "33711": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 19.4,
+    "army_corps_rank": 11
+  },
+  "33701": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 15.9,
+    "army_corps_rank": 11
+  },
+  "70003": {
+    "score_fraction": 1.0,
+    "ports": [
+      "South Louisiana / New Orleans"
+    ],
+    "distance_miles": 9.3,
+    "army_corps_rank": 1
+  },
+  "70126": {
+    "score_fraction": 1.0,
+    "ports": [
+      "South Louisiana / New Orleans"
+    ],
+    "distance_miles": 3.7,
+    "army_corps_rank": 1
+  },
+  "71107": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Lake Charles"
+    ],
+    "distance_miles": 169.0,
+    "army_corps_rank": 17
+  },
+  "55418": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 133.4,
+    "army_corps_rank": 26
+  },
+  "55412": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 134.4,
+    "army_corps_rank": 26
+  },
+  "28411": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 9.4,
+    "army_corps_rank": 31
+  },
+  "28480": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Wilmington NC"
+    ],
+    "distance_miles": 9.0,
+    "army_corps_rank": 31
+  },
+  "48180": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 13.0,
+    "army_corps_rank": 27
+  },
+  "48312": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 16.0,
+    "army_corps_rank": 27
+  },
+  "48047": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 27.5,
+    "army_corps_rank": 27
+  },
+  "48045": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 21.3,
+    "army_corps_rank": 27
+  },
+  "48843": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 48.8,
+    "army_corps_rank": 27
+  },
+  "48328": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 26.6,
+    "army_corps_rank": 27
+  },
+  "53191": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Detroit"
+    ],
+    "distance_miles": 280.5,
+    "army_corps_rank": 27
+  },
+  "32507": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Pensacola"
+    ],
+    "distance_miles": 6.4,
+    "army_corps_rank": 33
+  },
+  "34243": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Tampa Bay"
+    ],
+    "distance_miles": 36.5,
+    "army_corps_rank": 11
+  },
+  "23322": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 14.6,
+    "army_corps_rank": 15
+  },
+  "54303": {
+    "score_fraction": 0.0,
+    "ports": [
+      "Duluth / Superior"
+    ],
+    "distance_miles": 247.7,
+    "army_corps_rank": 26
+  },
+  "44054": {
+    "score_fraction": 0.83,
+    "ports": [
+      "Cleveland"
+    ],
+    "distance_miles": 21.1,
+    "army_corps_rank": 20
+  },
+  "23518": {
+    "score_fraction": 1.0,
+    "ports": [
+      "Norfolk / Hampton Roads"
+    ],
+    "distance_miles": 6.7,
+    "army_corps_rank": 15
+  },
+  "44839": {
+    "score_fraction": 0.58,
+    "ports": [
+      "Cleveland"
+    ],
+    "distance_miles": 44.8,
+    "army_corps_rank": 20
+  }
+}

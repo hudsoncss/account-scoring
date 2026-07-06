@@ -1,0 +1,15 @@
+.streamlit/secrets.toml
+CLAUDE.md
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+GTM-Engineer-Final-Round-Assignment.pdf
+us_marine_equipment_companies_may_2026 - Marine Equipment Companies.csv
+Additional Hints from Hiring Manager.rtf
+.claude
